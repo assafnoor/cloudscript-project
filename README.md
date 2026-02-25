@@ -396,12 +396,6 @@ MIT License - see LICENSE file for details
 - Built for educational purposes
 - Special thanks to course instructors
 
-## 📞 Support
-
-For questions or issues:
-- Open an issue on GitHub
-- Email: your.email@university.edu
-
 ## 🗺️ Roadmap
 
 - [ ] GraphQL support
